@@ -1,3 +1,7 @@
 ## 使用方式
 
 将本仓库的 mashiro.css 和 mashiro/ 文件夹复制到 Typora 的主题文件夹。随后重启 Typora。
+
+## 原仓库地址
+
+https://github.com/bill-xia/hexo-theme-mashiro
