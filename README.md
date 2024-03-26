@@ -5,3 +5,9 @@
 ## 原仓库地址
 
 https://github.com/bill-xia/hexo-theme-mashiro
+
+## 效果预览
+
+![image-20240326134201852](/Users/wangjuanli/Codefield/Tools/Mashiro4Typora/assets/image-20240326134201852.png)
+
+![](assets/2.jpg)
